@@ -3,4 +3,6 @@
   <groupId>TestRepository</groupId>
   <artifactId>TestRepository</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies></dependencies>
 </project>
